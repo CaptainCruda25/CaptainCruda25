@@ -11,7 +11,7 @@ I'm **Carl Emmanuel Cruda, 20 years old** also known as **CaptainCruda25**, I’
 
 ### Socials and How to Reach Me:
 <!-- - [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/maaku0223)-->
-- [![Gmail](https://img.shields.io/badge/Gmail-marcsamuelcanales.26%40gmail.com-%23EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:crudacarlemmanuelt25@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-crudacarlemmanuelt25%40gmail.com-%23EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:crudacarlemmanuelt25@gmail.com)
 <!-- - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/maaku0223/)-->
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/carl-emmanuel-cruda-3a091b275)
 
