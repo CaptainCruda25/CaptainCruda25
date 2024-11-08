@@ -18,8 +18,8 @@ I'm **Carl Emmanuel Cruda, 20 years old** also known as **CaptainCruda25**, I’
 ### Current Status:
 
 - 💼 Looking for part-time.
-- 🔍 I’m looking for connections in <strong>Web Development, Desktop Development UI/UX, and Cyber Security</strong> Industry especially around <strong>Japan</strong>.
-- 💬 Feel free to discuss with me about <strong>Web Development, UI/UX, and Cyber Security</strong>.
+- 🔍 I’m looking for connections in <strong>Web Development, Desktop Development, UI/UX Designing, and Cyber Security</strong> Industry especially around <strong>Japan or any country</strong>.
+- 💬 Feel free to discuss with me about <strong>Web Development and UI/UX</strong>.
 - 👀 See my [Personal Portfolio](https://captaincruda25.github.io/Personal-Portfolio/) to get more info
 
 ### Tools I work upon : 🛠
