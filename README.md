@@ -4,7 +4,7 @@ I’m a beginner programmer and in Github. I want to be a **Software Engineer** 
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 
-I'm **Carl Emmanuel Cruda, 20 years old** also known as **CaptainCruda25**, I’m interested in gaining and expanding my knowledge in **programming**. I also interested in music. I’m currently learning at **Web Development** such as **HTML**,**CSS**, **JS**, **PHP** and **MYSQL** and I'm a **Beginner in GitHub** and currently a 3rd year College Student studying at **Cavite State University Naic**. I want to be Software Engineer someday. My primary objective is to learn and to have a deeper understand in programming language I wanna use in the future. Fun fact: I love music.<br><br>
+I'm **Carl Emmanuel Cruda, 21 years old** also known as **CaptainCruda25**, I’m interested in gaining and expanding my knowledge in **programming**. I also interested in music. I’m currently learning at **Web Development** such as **HTML**,**CSS**, **JS**, **PHP** and **MYSQL** and Desktop Development in **Python**. I'm a **Beginner in GitHub** and currently a 4th year College Student studying at **Cavite State University Naic**. I want to be Software Engineer someday. My primary objective is to learn and to have a deeper understand in programming language I wanna use in the future. Fun fact: I love music.<br><br>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Carl+Emmanuel+Cruda,+20+yo.;Front-end+Web+Developer;Back-end+Web+Developer;UI/UX+Designer+Beginner;Desktop+Developer+Beginner;Cyber+Security+Beginner)](https://git.io/typing-svg)
