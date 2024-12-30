@@ -30,7 +30,6 @@ I'm **Carl Emmanuel Cruda, 21 years old** also known as **CaptainCruda25**, I’
 
 -----
 
-Last Edited on: 07/08/2024
 
 ### Profile Visits:
 
